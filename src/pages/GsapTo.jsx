@@ -6,8 +6,9 @@ const GsapTo = () => {
   useGSAP(() => {
     gsap.to('#blue-box', { x: 800, 
       repeat: -1, yoyo: true ,
-    rotate: 360,
-  duration:4});
+      rotate: 360,
+      duration:4,
+    ease: "elastic.out(1, 0.3)" });
   }, []);
 
   return (
