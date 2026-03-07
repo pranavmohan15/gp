@@ -13,7 +13,7 @@ const GsapFrom = () => {
 
   return (
     <main>
-      <h1>GsapFrom</h1>
+      <h1>GsapFroms</h1>
 
       <p className="mt-5 text-gray-500">
         The <code>gsap.from()</code> method is used to animate elements from a
