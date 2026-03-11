@@ -25,7 +25,7 @@ const GsapStagger = () => {
           target="_blank"
           rel="noreferrer noopener nofollow"
         >
-          Gsap Stagger
+          Gsap stagger
         </a>{" "}
         feature.
       </p>
