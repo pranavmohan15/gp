@@ -38,7 +38,7 @@ const animations = [
     path: "/gsapscrolltrigger",
   },
   {
-    title: "GSAP text",
+    title: "GSAP Text",
     description: "Learn how to animate text with GSAP.",
     path: "/gsaptext",
   },
